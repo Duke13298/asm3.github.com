@@ -1,0 +1,38 @@
+.nav-item-3 {
+  display: none;
+}
+.nav-mobile {
+  display: grid;
+}
+.nav-item-mobile {
+  margin: 5px 15px;
+  padding: 0 15px;
+}
+.GI div {
+  display: grid;
+  justify-self: center;
+}
+.BI-mobile-flex {
+  flex: 0 0 auto;
+  width: 100%;
+}
+.C {
+  border-bottom: 5px solid #d6c08d;
+}
+.C-mobile-flex {
+  flex: 0 0 auto;
+  width: 100%;
+}
+.C-border-right {
+  border-right-style: none !important ;
+}
+.C-border-left {
+  border-left-style: none !important ;
+}
+.P-mobile-flex {
+  flex: 0 0 auto;
+  width: 100%;
+}
+.L-mobile {
+  display: none;
+}

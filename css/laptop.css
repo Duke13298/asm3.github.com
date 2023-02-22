@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+/* Certificate border */
+.C-padding {
+  padding: 4px;
+}
+.C-border-bottom {
+  border-bottom: 5px solid #d6c08d;
+}
+.C-border-right {
+  border-right: 5px solid #d6c08d;
+}
+.C-border-left {
+  border-left: 5px solid #d6c08d;
+}
+/* Project table */
+tr {
+  border-bottom: 5px solid black;
+}
+th {
+  width: 20%;
+  text-align: left;
+}
+table {
+  border-collapse: collapse;
+}

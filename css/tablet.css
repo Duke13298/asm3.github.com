@@ -1,0 +1,10 @@
+.nav-item-3 {
+  display: none;
+}
+.GI-tablet {
+  padding: 10px;
+}
+.BI-tablet-flex {
+  flex: 0 0 auto;
+  width: 50%;
+}

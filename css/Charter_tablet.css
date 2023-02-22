@@ -1,0 +1,15 @@
+.Grid-Charter {
+  display: flex;
+}
+.Goals-Team-grid {
+  display: flex;
+}
+.Scopes-grid {
+  display: flex;
+}
+.Timeline-grid {
+  display: flex;
+}
+.text-left {
+  width: 15%;
+}
